@@ -9,3 +9,7 @@ CODE IS HERE
 /*
 CODE IS OK
 */
+
+/*
+REFACTORED CODE
+*/
