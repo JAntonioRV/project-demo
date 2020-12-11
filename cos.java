@@ -9,3 +9,7 @@ INSERT CODE HERE
 /*
 CODE IS OK
 */
+
+/*
+REFACTORED CODE
+*/
